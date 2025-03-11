@@ -55,7 +55,7 @@ let userIsBanned = false;
 function displayCountdown(formattedTime) {
   clearConsole();
   console.log('=============================================');
-  console.log('  CLASH OF COINS CLAIM BOT - AIRDROP INSIDERS');
+  console.log('  CLASH OF COINS CLAIM BOT - Lavda Bc');
   console.log('=============================================');
   console.log('');
   console.log(`🕒 Next claim available in: ${formattedTime}`);
@@ -79,7 +79,7 @@ function displayCountdown(formattedTime) {
 function displayReadyToClaim() {
   clearConsole();
   console.log('=============================================');
-  console.log('  CLASH OF COINS CLAIM BOT - AIRDROP INSIDERS');
+  console.log('  CLASH OF COINS CLAIM BOT - Lavda Bc');
   console.log('=============================================');
   console.log('');
   console.log('✅ REWARDS ARE AVAILABLE!');
