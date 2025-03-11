@@ -1,11 +1,11 @@
 1. Clone the repository:
 ```
-git clone https://github.com/airdropinsiders/Stork-Auto-Bot.git
+https://github.com/vikash699/coc-bot.git
 ```
 
 2. Navigate to the project directory:
 ```
-cd Stork-Auto-Bot
+cd coc-bot
 ```
 3. Install dependencies:
 ```
