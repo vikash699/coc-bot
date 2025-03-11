@@ -55,7 +55,7 @@ let userIsBanned = false;
 function displayCountdown(formattedTime) {
   clearConsole();
   console.log('=============================================');
-  console.log('  CLASH OF COINS CLAIM BOT - Lavda Bc');
+  console.log('  CLASH OF COINS CLAIM BOT - LEVI REKT');
   console.log('=============================================');
   console.log('');
   console.log(`🕒 Next claim available in: ${formattedTime}`);
@@ -79,7 +79,7 @@ function displayCountdown(formattedTime) {
 function displayReadyToClaim() {
   clearConsole();
   console.log('=============================================');
-  console.log('  CLASH OF COINS CLAIM BOT - Lavda Bc');
+  console.log('  CLASH OF COINS CLAIM BOT - JACK RICH');
   console.log('=============================================');
   console.log('');
   console.log('✅ REWARDS ARE AVAILABLE!');
@@ -263,7 +263,7 @@ async function main() {
     
     clearConsole();
     console.log('=============================================');
-    console.log('  CLASH OF COINS CLAIM BOT - LAVDA BC');
+    console.log('  CLASH OF COINS CLAIM BOT - HRITIK PRO');
     console.log('=============================================');
     console.log('');
     console.log(`Wallet: ${address}`);
