@@ -79,7 +79,7 @@ function displayCountdown(formattedTime) {
 function displayReadyToClaim() {
   clearConsole();
   console.log('=============================================');
-  console.log('  CLASH OF COINS CLAIM BOT - JACK RICH');
+  console.log('  CLASH OF COINS CLAIM BOT - VIKASH POOR');
   console.log('=============================================');
   console.log('');
   console.log('✅ REWARDS ARE AVAILABLE!');
